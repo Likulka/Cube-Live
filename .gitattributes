@@ -1,2 +1,1 @@
-* linguist-vendored
-*.ShaderLab linguist-vendored=false
+*.ShaderLab linguist-language=C#
